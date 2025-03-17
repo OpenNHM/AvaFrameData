@@ -2,6 +2,11 @@
 
 ## Event 201901
 
+### Changelog 
+#### V1 -> V2
+- forest.shp
+- forest streets closed
+
 #### V0 -> V1 
 - forest.shp
 - postprocessed raw data from Waldkategorienlayer
