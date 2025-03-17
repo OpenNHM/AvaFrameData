@@ -2,6 +2,22 @@
 
 ## Event 201901
 
+#### V0 -> V1 
+- forest.shp
+- postprocessed raw data from Waldkategorienlayer
+- converted multipolygon to single polygon
+- removed very small features and holes were cut open
+- forest streets remaining
+
+---
+#### V0
+- forest.shp
+- contains raw data from Waldkategorienlayer
+- not accepted by avaFrame due to multipolygon format
+- not accepted by avaFrame due to holes
+
+---
+
 ### General description 
 - Type of avalanche: dense flow with major powder cloud, dry snow
 - Entrainment: Significant for avalanche formation
