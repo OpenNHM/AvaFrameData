@@ -12,6 +12,10 @@ Data repository for (event) input data
 | avaKleinerOetscherbach | V1 | 2024-09-24 | `d85bb92` — forest >=10m filter |
 | avaPopeletzbach | V1 | 2024-09-24 | `d85bb92` — forest >=10m filter |
 
+To cite:
+
+[![DOI](https://zenodo.org/badge/822964649.svg)](https://doi.org/10.5281/zenodo.20701551)
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
