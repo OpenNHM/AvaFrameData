@@ -1,23 +1,62 @@
 {
   "creators": [
     {
-      "affiliation": "BFW",
-      "name": "Felix Oesterle",
+      "name": "The OpenNHM Collective"
+    },
+    {
+      "affiliation": "Austrian Research Centre for Forests (BFW)",
+      "name": "Felix OESTERLE",
       "orcid": "0000-0002-7772-6884"
     },
     {
-      "affiliation": "BFW",
-      "name": "Anna Wirbel",
+      "affiliation": "Austrian Research Centre for Forests (BFW)",
+      "name": "Anna WIRBEL",
       "orcid": "0000-0001-7149-8625"
     },
     {
-      "affiliation": "BFW",
-      "name": "Christoph Hesselbach",
+      "affiliation": "Austrian Research Centre for Forests (BFW)",
+      "name": "Jan-Thomas FISCHER",
+      "orcid": "0000-0001-5179-6457"
+    },
+    {
+      "affiliation": "Austrian Research Centre for Forests (BFW)",
+      "name": "Christoph HESSELBACH",
       "orcid": "0009-0001-3569-1636"
     },
     {
-      "affiliation": "BFW",
-      "name": "Silvana Raiber"
+      "affiliation": "Austrian Avalanche and Torrent Service (WLV)",
+      "name": "Markus MAYERL"
+    },
+    {
+      "affiliation": "WSL Institute for Snow and Avalanche Research SLF",
+      "name": "Yves BÜHLER",
+      "orcid": "0000-0002-0815-2717"
+    },
+    {
+      "affiliation": "WSL Institute for Snow and Avalanche Research SLF",
+      "name": "Peter BEBI",
+      "orcid": "0000-0001-8868-6569"
+    },
+    {
+      "affiliation": "Bayerisches Landesamt für Umwelt",
+      "name": "Thomas FEISTL"
+    },
+    {
+      "affiliation": "Austrian Research Centre for Forests (BFW)",
+      "name": "Frank PERZL"
+    },
+    {
+      "affiliation": "Austrian Research Centre for Forests (BFW)",
+      "name": "Silvana RAIBER"
+    },
+    {
+      "affiliation": "Austrian Avalanche and Torrent Service (WLV)",
+      "name": "Christian TOLLINGER"
+    },
+    {
+      "affiliation": "Austrian Research Centre for Forests (BFW)",
+      "name": "Michaela TEICH",
+      "orcid": "0000-0002-8850-9279"
     }
   ]
 }
