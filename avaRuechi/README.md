@@ -23,7 +23,7 @@ avaRuechi is one of a total of three artificially released cold mixed flowing-po
     - Release area top elevation: 2370 m a.s.l.
     - End of runout zone: 1570 m a.s.l.
     - Northeastern slope aspect
-    - Maximum horizontal extend of the drone-mapped avalanche outline, convex hull method: 1545 m
+    - Maximum horizontal extent of the drone-mapped avalanche outline, convex hull method: 1545 m
 - Snow parameters
     - Release thickness: 145 cm
     - Maximum erosion thickness: 185 cm
