@@ -23,7 +23,7 @@ avaWildi is one of a total of three artificially released cold mixed flowing-pow
     - Release area top elevation: 2280 m a.s.l.
     - End of runout zone: 1570 m a.s.l.
     - Northeastern slope aspect
-    - Maximum horizontal extend of the drone-mapped avalanche outline, convex hull method: 1340 m
+    - Maximum horizontal extent of the drone-mapped avalanche outline, convex hull method: 1340 m
 - Snow parameters
     - Release thickness: 95 cm
     - Maximum erosion thickness: 115 cm
