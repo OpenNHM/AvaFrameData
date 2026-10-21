@@ -25,18 +25,18 @@ avaChaiseren is one of a total of three artificially released cold mixed flowing
     - Northeastern slope aspect
     - Measured runout distance: 1160 m
 - Snow parameters
-    - Release height: 95 cm
+    - Release thickness: 95 cm
     - Maximum erosion height: 115 cm
 
 ### Available data
 Data CRS: EPSG:2056
 
 - release area (avaChaiseren_release_area.gpkg)
-    - release height: 95 cm
+    - release thickness: 95 cm
 - forest area (avaWildi_forest_area.gpkg)
     - polygons are defined according to expert judgement based on the orthophoto.
 - avalanche area (avaChaiseren_avalanche_area.gpkg)
-    - outline of all flowing parts of the avalanche based on the orthophoto
+    - outline of all dense parts of the avalanche based on the orthophoto
 - powder area (avaChaiseren_powder_area.gpkg)
     - rough estimation of the outlines of the powder cloud, identified from the orthophoto. 
 
