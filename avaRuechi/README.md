@@ -25,18 +25,18 @@ avaRuechi is one of a total of three artificially released cold mixed flowing-po
     - Northeastern slope aspect
     - Measured runout distance: 1545 m
 - Snow parameters
-    - Release height: 145 cm
+    - Release thickness: 145 cm
     - Maximum erosion height: 185 cm
 
 ### Available data
 Data CRS: EPSG:2056
 
 - release area (avaRuechi_release_area.gpkg)
-    - release height: 145 cm
+    - release thickness: 145 cm
 - forest area (avaRuechi_forest_area.gpkg) 
     - polygons are defined according to expert judgement based on the orthophoto.
 - avalanche area (avaRuechi_avalanche_area.gpkg)
-    - outline of all flowing parts of the avalanche based on the orthophoto
+    - outline of all dense parts of the avalanche based on the orthophoto
 - powder area (avaRuechi_powder_area.gpkg)
     - rough estimation of the outlines of the powder cloud, identified from the orthophoto. 
 
