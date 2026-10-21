@@ -21,12 +21,12 @@ avaChaiseren is one of a total of three artificially released cold mixed flowing
 #### Specific information about the Chaiseren avalanche
 - Spatial parameters
     - Release area top elevation: 2240 m a.s.l.
-    - Runout zone: 1570 m a.s.l.
+    - End of runout zone: 1570 m a.s.l.
     - Northeastern slope aspect
-    - Measured runout distance: 1160 m
+    - Maximum horizontal extend of the drone-mapped avalanche outline, convex hull method: 1160 m
 - Snow parameters
     - Release thickness: 95 cm
-    - Maximum erosion height: 115 cm
+    - Maximum erosion thickness: 115 cm
 
 ### Available data
 Data CRS: EPSG:2056
