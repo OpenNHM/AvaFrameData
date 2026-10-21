@@ -21,12 +21,12 @@ avaWildi is one of a total of three artificially released cold mixed flowing-pow
 #### Specific information about the Wildi avalanche
 - Spatial parameters
     - Release area top elevation: 2280 m a.s.l.
-    - Runout zone: 1570 m a.s.l.
+    - End of runout zone: 1570 m a.s.l.
     - Northeastern slope aspect
-    - Measured runout distance: 1340 m
+    - Maximum horizontal extend of the drone-mapped avalanche outline, convex hull method: 1340 m
 - Snow parameters
     - Release thickness: 95 cm
-    - Maximum erosion height: 115 cm
+    - Maximum erosion thickness: 115 cm
 
 ### Available data
 Data CRS: EPSG:2056
