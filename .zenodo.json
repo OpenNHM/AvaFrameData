@@ -38,6 +38,22 @@
       "orcid": "0000-0001-8868-6569"
     },
     {
+      "affiliation": "WSL Institute for Snow and Avalanche Research SLF",
+      "name": "Julia GLAUS"
+    },
+    {
+      "affiliation": "WSL Institute for Snow and Avalanche Research SLF",
+      "name": "Elisabeth HAFNER"
+    },
+    {
+      "affiliation": "WSL Institute for Snow and Avalanche Research SLF",
+      "name": "Andreas STOFFEL"
+    },
+    {
+      "affiliation": "WSL Institute for Snow and Avalanche Research SLF",
+      "name": "Vali MEIER"
+    },
+    {
       "affiliation": "Bayerisches Landesamt für Umwelt",
       "name": "Thomas FEISTL"
     },
@@ -47,7 +63,8 @@
     },
     {
       "affiliation": "Austrian Research Centre for Forests (BFW)",
-      "name": "Silvana RAIBER"
+      "name": "Silvana RAIBER",
+      "orcid": "0009-0004-0775-6916"
     },
     {
       "affiliation": "Austrian Avalanche and Torrent Service (WLV)",
